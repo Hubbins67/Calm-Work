@@ -1,4 +1,4 @@
-.. title:: Nutanix Calm Bootcamp
+.. title:: BAZ Calm Bootcamp
 
 .. toctree::
   :maxdepth: 2
