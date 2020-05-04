@@ -39,7 +39,7 @@
 Getting Started
 ---------------
 
-Welcome to the Nutanix Calm Bootcamp!
+Welcome to the BAZ Calm Bootcamp!
 
 
 
