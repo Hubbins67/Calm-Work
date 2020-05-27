@@ -39,7 +39,7 @@
 Getting Started
 ---------------
 
-Welcome to the BAZ Calm Bootcamp!
+Welcome to the Elbit Systems Calm Bootcamp!
 
 
 
